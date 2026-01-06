@@ -4,8 +4,8 @@ include("header.php");
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 class="section-title text-center text-primary text-uppercase">Our Gallery</h6>
-                    <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Gallery</span></h1>
+                    <h6 class="section-title text-center text-primary text-uppercase">Our Gallery23</h6>
+                    <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Gallery3232323</span></h1>
                     <p>Step into our visual journey and explore the beauty of our spaces through our gallery. From stunning room designs and luxurious amenities to breathtaking views and vibrant surroundings, our gallery captures the essence of what makes us unique. Get inspired by the moments we’ve curated and envision yourself enjoying the perfect stay. Let our images tell the story of comfort, elegance, and unforgettable experiences waiting for you</p>
                 </div>
                 <div class="row g-4">
